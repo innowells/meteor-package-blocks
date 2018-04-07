@@ -7,7 +7,7 @@ You can query blocks like any other Meteor collection.
 
 ## Installation
 
-    $ meteor add moac:blocks
+    $ meteor add moaclib:blocks
 
 ## Usage
 

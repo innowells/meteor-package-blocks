@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'moac:blocks',
+  name: 'moaclib:blocks',
   summary: 'Provides informations about the current and last 50 blocks',
   version: '0.1.0',
   git: 'http://github.com/innowells/meteor-package-blocks'
@@ -20,7 +20,7 @@ Package.onUse(function(api) {
 
 // Package.onTest(function(api) {
 //   api.use('tinytest');
-//   api.use('moac:blocks');
+//   api.use('moaclib:blocks');
 //   api.addFiles('blocks-tests.js');
 // });
 
